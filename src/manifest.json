@@ -1,0 +1,19 @@
+{
+    "name" : "Diary App",
+    "short_name" : "Diary",
+    "icons": [
+        {
+            "src": "assets/diarys.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          },
+          {
+            "src": "assets/diary.png",
+            "sizes": "128x128"
+          }
+         ],
+    "start_url": "index.html",
+    "display":"standalone",
+    "background_color":"whitesmoke",
+    "theme_color":"whitesmoke"
+}
